@@ -1,0 +1,17 @@
+10 night guards out. Zero complaints.
+
+I run a small dental lab. {{N}} clinics send me cases.
+
+This month I printed 10 night guards in KeySplint Soft, made a model for each one, and gave both back to the clinic.
+
+No patient has come back with a complaint. The clinics sent more cases.
+
+Tomorrow a flipper and the next batch of guards go out.
+
+The printing was never the slow part. The slow part was everything around it. A case comes in by text with half the info. I call the clinic back. Nobody's sure who approved what.
+
+That's why we run cases through nvox. The clinic sends the case. The lab checks it and accepts it or sends it back. Every step is logged, so when someone asks who approved what and when, the answer's already there.
+
+Next up: a project on LuxCreo printers, ortho cases, and buying material straight from distributors.
+
+If you run a clinic, how do your lab cases get to the lab today?
