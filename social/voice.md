@@ -1,7 +1,8 @@
 # voice.md: nvox
 
-Shared by every /li-* and /ig-* skill. Copies live at
-`~/.claude/linkedin/voice.md` and `~/.claude/instagram/voice.md`.
+Shared by every /li-*, /ig-* and /yt-* skill. Copies live at
+`~/.claude/linkedin/voice.md`, `~/.claude/instagram/voice.md` and
+`~/.claude/youtube/voice.md`.
 Anything in {{double braces}} is still unknown. Fill it in before posting.
 
 ## Who I am
